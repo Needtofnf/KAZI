@@ -1,0 +1,245 @@
+
+*{
+   margin: 0;
+   padding: 0;
+   overflow-x: 0;
+   
+  
+}
+
+body{
+  background-color: black;
+}
+
+
+#netflix_logo img{
+   width: 160px;
+   position: relative;
+     left: 350px;
+     top: 25px;
+}
+
+#sign_in button{
+      float: right;
+      position: relative;
+      right:350px ;
+      bottom: 25px;
+      background-color: red;
+      color: white;
+      border-radius: 4px;
+      border-color: red;
+      border-style: none;
+      height: 30px;
+      width: 60px;
+}
+
+
+ #three_text{
+
+  text-align: center;
+  position: relative;
+    top: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 50px;
+    color:white
+  
+}
+
+#three_text h3{
+    font-size: 50px;
+   
+}
+
+#input_button{
+
+    position:relative;
+          left: 570px;
+          top: 200px;
+       
+}
+
+#input_button input{
+                        width: 400px;
+                        height: 45px;
+                      }
+
+ #input_button button{
+       height: 47px;
+       width: 180px;
+       background-color: red;
+       border-style: none;
+       border-radius: 5px;
+       color: white;
+       font-size: 20px;
+       position: relative;
+          top: 1px;
+ }  
+ 
+ #mainImage img{
+
+   position: relative;
+      bottom: 300px;
+      z-index: -1;
+      opacity: 0.5;
+      border-style: solid;
+      border-width: 5px;
+      border-color: grey;
+      border-left: 0px;
+      border-right: 0px;
+   
+ }  
+
+ #tv img{
+           position: relative;
+             bottom: 350px;
+              left: 900px;
+              height: 350px;
+ }
+
+ #enjoyWatch{
+     position:relative;
+        bottom: 100px;
+         left: 400px;
+         color: white;
+         font-family: sans-serif;
+         
+        
+        
+ }
+ #enjoyWatch h3{
+      font-size: 50px;
+      line-height: 100px;
+ }
+ #enjoyWatch p{
+      font-size: 20px;
+      
+ }
+ 
+#phone img{
+      position: relative;
+        top: 3px;
+        left: 400px;
+        width: 500px;
+        border-style: solid;
+        border-width: 4px;
+        
+                     
+}
+
+#phone{
+      background-color: rgb(7, 3, 3);
+      border-color: rgb(73, 73, 73); 
+      border-style: solid;
+      border-width: 5px;
+      border-color: rgb(49, 48, 48);
+      border-left: 0px;
+      border-right: 0px;
+      border-bottom: 0px;
+      position: relative;
+      height: 500px;
+      position: relative;
+        bottom: 300px;
+       
+   
+}
+
+#downloadSave {
+
+    color: white;
+    font-family: sans-serif;
+     float: right;
+     position: relative;
+      bottom: 700px;
+      right: 400px ;  
+    
+
+}
+#downloadSave h3{
+   font-size: 40px;
+  font-weight: bolder;
+
+}
+
+#downloadSave p{
+   padding-top: 20px;
+
+}
+
+#watchStream{
+      background-color: rgb(7, 3, 3);
+      border-color: rgb(73, 73, 73); 
+      border-style: solid;
+      border-width: 8px;
+      border-color: rgb(49, 48, 48);
+      border-left: 0px;
+      border-right: 0px;
+      border-bottom: 0px;
+      position: relative;
+      height: 400px;
+      position: relative;
+        bottom: 360px;
+       color:white;
+      
+   
+}
+
+#watchStream h3{ 
+
+ position: relative;
+        left: 550px;
+        top: 100px;
+        font-size: 55px;
+        font-family: sans-serif;
+
+}
+#watchStream p{ 
+
+ position: relative;
+        left: 550px;
+        top: 100px;
+        font-family: sans-serif;
+        padding-top: 15px;
+
+}
+
+#aaImage{
+   background-color:black;
+     border-color: rgb(73, 73, 73); 
+      border-style: solid;
+      border-width: 7px;
+      border-color: rgb(49, 48, 48);
+      border-left: 0px;
+      border-right: 0px;
+       position: relative;
+      bottom: 400px;
+
+
+}
+
+#aaImage img{
+
+  position: relative;
+      left: 300px
+
+}
+
+
+#createSend{
+
+color: white;
+position:relative;
+      bottom: 700px;
+      left: 900px;
+      font-family: sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
